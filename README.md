@@ -1,4 +1,4 @@
-# 👩🏻‍💻 José Matias
+# 👨‍💻 José Matias
 
 **`Desenvolvedor Back-end`**
 
