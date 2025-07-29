@@ -3,10 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Olá! Me chamo José Matias, tenho 19 anos e sou natural de Belém do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNAMA – Universidade da Amazônia.
-
 Desde que tive meu primeiro contato com programação, me identifiquei bastante com o desenvolvimento back-end. Desde então, venho aprofundando meus estudos na linguagem Java com o objetivo de me tornar um desenvolvedor back-end especialista. Estou sempre em busca de novos desafios e oportunidades que me permitam evoluir tecnicamente e profissionalmente.
-
-
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jtape18/" target="_blank">
@@ -132,5 +129,4 @@ Desde que tive meu primeiro contato com programação, me identifiquei bastante 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtape18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
